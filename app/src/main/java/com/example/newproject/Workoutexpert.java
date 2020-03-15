@@ -9,7 +9,7 @@ public class Workoutexpert {
         List<String> workout=new ArrayList<String>();
         if(workouttypes.equals("Chest")){
         workout.add("Bench Press");
-        workout.add("Cable Fiys");
+        workout.add("Cable Fiyss");
 
         }
         else if (workouttypes.equals("Triceps")){
